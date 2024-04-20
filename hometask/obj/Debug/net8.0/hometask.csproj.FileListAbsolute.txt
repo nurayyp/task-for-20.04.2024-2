@@ -12,3 +12,4 @@ C:\Users\User\Desktop\task1\hometask\hometask\obj\Debug\net8.0\refint\hometask.d
 C:\Users\User\Desktop\task1\hometask\hometask\obj\Debug\net8.0\hometask.pdb
 C:\Users\User\Desktop\task1\hometask\hometask\obj\Debug\net8.0\hometask.genruntimeconfig.cache
 C:\Users\User\Desktop\task1\hometask\hometask\obj\Debug\net8.0\ref\hometask.dll
+C:\Users\User\Desktop\task1\hometask\hometask\obj\Debug\net8.0\hometask.sourcelink.json

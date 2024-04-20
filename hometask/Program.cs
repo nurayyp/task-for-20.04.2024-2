@@ -383,7 +383,7 @@
 //}    
 
 
-//ulduz 1
+//ulduz 11
 //int num = 5;
 //do 
 //{
@@ -391,5 +391,19 @@
 //    num--;
 //} while (num > 0);
 
+//ulduz 12
+//int number = Convert.ToInt32(Console.ReadLine());
+//for (int i = 0; i <= number; i++)
+//{
+//    for (int j = 0; j < i ; j++)
+//    {
+//        Console.Write("*");
+//    }
+//    Console.WriteLine();
+//}
+
+//ulduz 13
+int number = Convert.ToInt32(Console.ReadLine());
+for 
 
 
