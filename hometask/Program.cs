@@ -392,6 +392,7 @@
 //} while (num > 0);
 
 //ulduz 12
+//Console.WriteLine("eded daxil edin");
 //int number = Convert.ToInt32(Console.ReadLine());
 //for (int i = 0; i <= number; i++)
 //{
@@ -403,7 +404,15 @@
 //}
 
 //ulduz 13
-int number = Convert.ToInt32(Console.ReadLine());
-for 
+//Console.WriteLine("eded daxil edin");
+//int number = Convert.ToInt32(Console.ReadLine());
+//for (int i = number; i >= 0; i--)
+//{
+//    for (int j = i; j > 0; j--)
+//    {
+//        Console.Write("*");
+//    }
+//    Console.WriteLine();
+//}
 
 
